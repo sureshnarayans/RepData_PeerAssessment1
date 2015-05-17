@@ -1,6 +1,6 @@
 ---
-title: "PeerAssignment1"
-output: html_document
+title: "Peer Assignment1"
+output: HTML_document
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -10,6 +10,19 @@ When you click the **Knit** button a document will be generated that includes bo
 ```r
 rm(list=ls())
 library(dplyr)
+```
+
+```
+## 
+## Attaching package: 'dplyr'
+## 
+## The following object is masked from 'package:stats':
+## 
+##     filter
+## 
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
 ```
 
 
