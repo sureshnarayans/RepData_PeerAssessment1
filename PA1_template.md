@@ -12,19 +12,6 @@ rm(list=ls())
 library(dplyr)
 ```
 
-```
-## 
-## Attaching package: 'dplyr'
-## 
-## The following object is masked from 'package:stats':
-## 
-##     filter
-## 
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
-```
-
 
 **Now Lets download the data and understand what is in it there**
 
